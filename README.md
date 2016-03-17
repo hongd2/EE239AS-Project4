@@ -1,6 +1,6 @@
 # EE239AS-Project4
 
-Features:
+##Features:
 * number of tweets
 * total number of retweets
 * sum of the number of followers of the users posting the hashtag,
@@ -14,5 +14,12 @@ Features:
 * number active users (who tweet every hour in the past 6 hours)
 * number of tweets with 100 characters or more (threshold = 100)
 
-Other Problem Ideas
+##Other Problem Ideas
 * Classify #gohawks vs #gopatriots
+
+## Problem1
+run ```problem1.py``` to get graphs for problem1
+run ```preproc``` to get averages required by problem1
+
+## Problem2
+run ```problem2.py```
