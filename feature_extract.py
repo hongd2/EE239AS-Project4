@@ -39,9 +39,9 @@ def feature_extract(f, o_file):
     start_time = list(time.localtime(tweet['firstpost_date']))
     start_time[MINUTE_INDEX] = 0; start_time[SECOND_INDEX] = 0
     nth_hour = start_time[HOUR_INDEX]
-    start_time = time.mktime(start_time)
+    start_time = time.mktime(tuple(start_time))
     start_date = date.fromtimestamp(start_time)
-    print "Starting from time %s" % time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(start_time))
+    print("Starting from time %s" % time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(start_time)))
 
     time_format = "%Y-%m-%d %H:%M:%S"
 
@@ -51,10 +51,10 @@ def feature_extract(f, o_file):
         tweet_time = tweet['firstpost_date']
         tweet_hour = time.localtime(tweet_time).tm_hour
         if tweet_hour != nth_hour or start_date != date.fromtimestamp(float(tweet_time)):
-            print "Finished processing %d tweets from hour %d, next date time %s" %\
-                  (n_tweets, nth_hour, time.strftime(time_format, time.localtime(tweet_time)))
+            print("Finished processing %d tweets from hour %d, next date time %s" %\
+                  (n_tweets, nth_hour, time.strftime(time_format, time.localtime(tweet_time))))
             # update output
-            tweets_per_user = np.array(n_followers.values())[:, 1]
+            tweets_per_user = np.array(list(n_followers.values()))[:, 1]
             new_hour = np.array([[n_tweets, n_retweets, sum(n_followers), max(n_followers), nth_hour, \
                                   np.mean(tweets_per_user), len(n_followers), sum(tweets_per_user >= 3), \
                                   n_len_100]])
@@ -80,12 +80,12 @@ def feature_extract(f, o_file):
         user_follower[tweet['tweet']['user']['id']] = tweet['tweet']['user']['followers_count']
         start_date = date.fromtimestamp(float(tweet_time))
 
-    print "Outputting to '%s' ..." % o_file
+    print("Outputting to '%s' ..." % o_file)
     np.savetxt('data/' + o_file, output, delimiter=',')
 
-    print "--------------------"
-    print "Total number of tweets %d" % int(np.sum(output[:, 0]))
-    print "Average number of tweets per hour %f" % np.mean(output[:, 0])
-    print "Average number of retweets %f" % float(np.sum(output[:, 1]) / np.sum(output[:, 0]))
-    print "Average number of followers of (%d) users %f" %\
-          (len(user_follower), float(sum(user_follower.values()) / float(len(user_follower))))
+    print("--------------------")
+    print("Total number of tweets %d" % int(np.sum(output[:, 0])))
+    print("Average number of tweets per hour %f" % np.mean(output[:, 0]))
+    print("Average number of retweets %f" % float(np.sum(output[:, 1]) / np.sum(output[:, 0])))
+    print("Average number of followers of (%d) users %f" %\
+          (len(user_follower), float(sum(user_follower.values()) / float(len(user_follower)))))

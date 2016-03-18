@@ -1,3 +1,8 @@
+
+# coding: utf-8
+
+# In[3]:
+
 import json
 import time
 from feature_extract import feature_extract
@@ -21,12 +26,12 @@ def plot_tweet_flow(f, hashtag):
     start_time = list(time.localtime(tweet['firstpost_date']))
     start_time[MINUTE_INDEX] = 0; start_time[SECOND_INDEX] = 0
     nth_hour = start_time[HOUR_INDEX]
-    start_time = time.mktime(start_time)
-    print time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(start_time))
+    start_time = time.mktime(tuple(start_time))
+    print(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(start_time)))
 
     timespan = 3600
     maxtime = start_time + timespan
-    print maxtime
+    print(maxtime)
     n_tweets = 0
     history = []
     hours = []
@@ -38,12 +43,12 @@ def plot_tweet_flow(f, hashtag):
         if tweet_time < maxtime:
             n_tweets += 1
         else:
-            print "Finished %d tweets before %s" % (n_tweets, time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(maxtime)))
+            print("Finished %d tweets before %s" % (n_tweets, time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(maxtime))))
             history.append(n_tweets)
             hours.append(nth_hour)
             n_tweets = 0
-            nth_hour = (nth_hour + 1) % 24
-            assert nth_hour == time.localtime(maxtime).tm_hour
+            nth_hour = (nth_hour + 1)
+            #assert nth_hour == time.localtime(maxtime).tm_hour
             maxtime += timespan
     np.savetxt('data/'+hashtag+'histogram', history)
     np.savetxt('data/'+hashtag+'histogramlabel', hours)
@@ -52,19 +57,25 @@ def plot_tweet_flow(f, hashtag):
     plt.xlabel('Hour of the Day')
     plt.ylabel('Number of Tweets')
 
-    plt.xticks(range(len(hours))[::12], hours[::12])
+    plt.xticks(range(len(hours))[::100], hours[::100])
     plt.show()
     plt.savefig('graphs/'+hashtag+'tweet_count_histogram')
     plt.close()
 
 """ end of histogram function """
 
-print "Processing #superbowl"
-f_handle = open(superbowl)
+print("Processing #superbowl")
+f_handle = open(superbowl, encoding="utf8")
 plot_tweet_flow(f_handle, '#SuperBowl')
 f_handle.close()
 
-print "Processing #nfl"
-f_handle = open(nfl)
+print("Processing #nfl")
+f_handle = open(nfl, encoding="utf8")
 plot_tweet_flow(f_handle, '#NFL')
 f_handle.close()
+
+
+# In[ ]:
+
+
+
