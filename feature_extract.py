@@ -55,13 +55,8 @@ def feature_extract(f, o_file):
                   (n_tweets, nth_hour, time.strftime(time_format, time.localtime(tweet_time)))
             # update output
             tweets_per_user = np.array(n_followers.values())[:, 1]
-<<<<<<< HEAD
             new_hour = np.array([[n_tweets, n_retweets, sum(n_followers), max(n_followers), nth_hour, \
                                   np.mean(tweets_per_user), len(n_followers), sum(tweets_per_user >= 3), \
-=======
-            new_hour = np.array([[n_tweets, n_retweets, sum(n_followers), max(n_followers), nth_hour \
-                                  np.mean(tweets_per_user), len(n_followers), sum(tweets_per_user >= 3) \
->>>>>>> 542e0bdeb9d0f04e5b152b115ec47075ad9ddd98
                                   n_len_100]])
             output = np.append(output, new_hour, axis=0)
             # clear & update hourly variables
