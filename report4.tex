@@ -1,32 +1,52 @@
-\documentclass[12pt]{article}
+%\documentclass[10pt]{article}
 
-% This is the preamble, load any packages you're going to use here
-\usepackage{graphicx, float}
-\usepackage{setspace} 
+\documentclass[12pt]{article}
+\usepackage[hmargin=1in,vmargin=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{comment}
+\usepackage{mathtools}
+\usepackage{listings}
+\usepackage{float}
+\usepackage{fixltx2e}
+
 \usepackage{subcaption}
-\usepackage{enumerate} % allows us to customize our lists
-\setlength\parindent{0pt}
-\usepackage{geometry}
-    \geometry{
-    left=1in,
-    right=1in,
-    bottom=1in
-    }
-%\renewcommand{\arraystretch}{1.7}%
-\setstretch{1.5}
+\usepackage{epstopdf}
+
+%% This is the preamble, load any packages you're going to use here
+%\usepackage{graphicx, float}
+%\usepackage{setspace} 
+%\usepackage{subcaption}
+%\usepackage{enumerate} % allows us to customize our lists
+%\setlength\parindent{0pt}
+%\usepackage{geometry}
+%    \geometry{
+%    left=1in,
+%    right=1in,
+%    bottom=1in
+%    }
+%%\renewcommand{\arraystretch}{1.7}%
+%\setstretch{1.5}
 
 \begin{document}
 
 \title{\textbf{EE239AS Project 4}}
-\author{Yuxin Jin \quad (104195828)\\
-		Jamie Lee \quad (604589757)\\
-        David Hong \quad (204588953) \\
-        Nick Cirillo \quad (103834979)}
-\date{\today}
+
+\author{Yuxin Jin (104195828), Jamie Lee (604589757),\\ David Hong (204588953) and Nick Cirillo (103834979)}
 
 \maketitle
 
-\section*{Problem 1}
+\section{Popularity Prediction on Twitter}
+
+With the increase in popularity of social media and communication, Twitter has emerged as a major platform for online networking which allows users to post and read 140-character messages called tweets. Tweets are publicly viewable via the website and users can subscribe to other user's tweets in the form "following" another user. A word, phrase or topic that is mentioned at a greater rate than others is said to be a "trending topic" and can often be recognized in the form of hashtags ie. \#TrendingTopic. These topics  become popular usually either through a specific event or topic that prompts people to discuss it or by purely users creating these discussions. This information easily allows users to obtain broad perspectives and recent updates. In addition to users, these trending and bursting topics have sparked recent interest in the scientific community to analyze and predict these topics.
+
+In this project we seek to analyze such data by utilizing current and previous tweet activity for given hashtags in order to predict future tweet activity and behavior. Specifically we analyze tweet data for the 2015 Super Bowl (Seattle Seahawks vs. New England Patriots) from a period of two weeks before the game to a week after the game. We will use from related hashtags to train a regression model and use the same model to make predictions for other hashtags.
+
+
+\subsection{Part 1:}
+
+The training data was downloaded and statistics were calculated for each of the hashtags (\#gohawks, \#gopatriots, \#nfl, \#patriots, \#sb49 and \#superbowl)
+
 \textbf{\#gohawks}: \\
 Total number of tweets 188135 \\
 Average number of tweets per hour 276.669118 \\
