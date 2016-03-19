@@ -1,0 +1,850 @@
+data/tweets_#gohawks.csv
+
+	Linear Regression Mean Scores:
+	-Problem 2-
+		R^2 score: -3.431273
+		------------------------------
+		T-test feature 1: 32.254497
+		T-test feature 2: 12339.208428
+		T-test feature 3:  2.607192
+		T-test feature 4:       nan
+		------------------------------
+		P-value feature 1:  0.185462
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.182427
+		P-value feature 4:       nan
+	-Problem 3-
+		R^2 score: 0.830944
+		------------------------------
+		T-test feature 1: 32.254497
+		T-test feature 2: 12339.208428
+		T-test feature 3:  2.607192
+		T-test feature 4:       nan
+		T-test feature 5:  2.305868
+		T-test feature 6: 26540.184413
+		T-test feature 7: 645.459722
+		T-test feature 8: 1392.503026
+		------------------------------
+		P-value feature 1:  0.185462
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.182427
+		P-value feature 4:       nan
+		P-value feature 5:  0.451127
+		P-value feature 6:  0.000000
+		P-value feature 7:  0.000026
+		P-value feature 8:  0.000000
+
+
+	Logistic Regression Mean Scores:
+	-Problem 2-
+		R^2 score: 0.137352
+		------------------------------
+		T-test feature 1: 32.254497
+		T-test feature 2: 12339.208428
+		T-test feature 3:  2.607192
+		T-test feature 4:       nan
+		------------------------------
+		P-value feature 1:  0.185462
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.182427
+		P-value feature 4:       nan
+	-Problem 3-
+		R^2 score: 0.137352
+		------------------------------
+		T-test feature 1: 32.254497
+		T-test feature 2: 12339.208428
+		T-test feature 3:  2.607192
+		T-test feature 4:       nan
+		T-test feature 5:  2.305868
+		T-test feature 6: 26540.184413
+		T-test feature 7: 645.459722
+		T-test feature 8: 1392.503026
+		------------------------------
+		P-value feature 1:  0.185462
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.182427
+		P-value feature 4:       nan
+		P-value feature 5:  0.451127
+		P-value feature 6:  0.000000
+		P-value feature 7:  0.000026
+		P-value feature 8:  0.000000
+
+
+	Support Vector Regression Mean Scores:
+	-Problem 2-
+		R^2 score: -0.083056
+		------------------------------
+		T-test feature 1: 32.254497
+		T-test feature 2: 12339.208428
+		T-test feature 3:  2.607192
+		T-test feature 4:       nan
+		------------------------------
+		P-value feature 1:  0.185462
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.182427
+		P-value feature 4:       nan
+	-Problem 3-
+		R^2 score: -0.083049
+		------------------------------
+		T-test feature 1: 32.254497
+		T-test feature 2: 12339.208428
+		T-test feature 3:  2.607192
+		T-test feature 4:       nan
+		T-test feature 5:  2.305868
+		T-test feature 6: 26540.184413
+		T-test feature 7: 645.459722
+		T-test feature 8: 1392.503026
+		------------------------------
+		P-value feature 1:  0.185462
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.182427
+		P-value feature 4:       nan
+		P-value feature 5:  0.451127
+		P-value feature 6:  0.000000
+		P-value feature 7:  0.000026
+		P-value feature 8:  0.000000
+
+
+	LARS Lasso Mean Scores:
+	-Problem 2-
+		R^2 score: 0.941716
+		------------------------------
+		T-test feature 1: 32.254497
+		T-test feature 2: 12339.208428
+		T-test feature 3:  2.607192
+		T-test feature 4:       nan
+		------------------------------
+		P-value feature 1:  0.185462
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.182427
+		P-value feature 4:       nan
+	-Problem 3-
+		R^2 score: 0.978351
+		------------------------------
+		T-test feature 1: 32.254497
+		T-test feature 2: 12339.208428
+		T-test feature 3:  2.607192
+		T-test feature 4:       nan
+		T-test feature 5:  2.305868
+		T-test feature 6: 26540.184413
+		T-test feature 7: 645.459722
+		T-test feature 8: 1392.503026
+		------------------------------
+		P-value feature 1:  0.185462
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.182427
+		P-value feature 4:       nan
+		P-value feature 5:  0.451127
+		P-value feature 6:  0.000000
+		P-value feature 7:  0.000026
+		P-value feature 8:  0.000000
+
+
+data/tweets_#gopatriots.csv
+
+	Linear Regression Mean Scores:
+	-Problem 2-
+		R^2 score: 0.866516
+		------------------------------
+		T-test feature 1:       nan
+		T-test feature 2: 7148.513718
+		T-test feature 3:  3.428438
+		T-test feature 4:       nan
+		------------------------------
+		P-value feature 1:       nan
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.181693
+		P-value feature 4:       nan
+	-Problem 3-
+		R^2 score: 0.989521
+		------------------------------
+		T-test feature 1:       nan
+		T-test feature 2: 7148.513718
+		T-test feature 3:  3.428438
+		T-test feature 4:       nan
+		T-test feature 5: 22.746685
+		T-test feature 6: 621064.374186
+		T-test feature 7:       nan
+		T-test feature 8: 7142.937408
+		------------------------------
+		P-value feature 1:       nan
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.181693
+		P-value feature 4:       nan
+		P-value feature 5:  0.572824
+		P-value feature 6:  0.000000
+		P-value feature 7:       nan
+		P-value feature 8:  0.000000
+
+
+	Logistic Regression Mean Scores:
+	-Problem 2-
+		R^2 score: 0.257283
+		------------------------------
+		T-test feature 1:       nan
+		T-test feature 2: 7148.513718
+		T-test feature 3:  3.428438
+		T-test feature 4:       nan
+		------------------------------
+		P-value feature 1:       nan
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.181693
+		P-value feature 4:       nan
+	-Problem 3-
+		R^2 score: 0.257283
+		------------------------------
+		T-test feature 1:       nan
+		T-test feature 2: 7148.513718
+		T-test feature 3:  3.428438
+		T-test feature 4:       nan
+		T-test feature 5: 22.746685
+		T-test feature 6: 621064.374186
+		T-test feature 7:       nan
+		T-test feature 8: 7142.937408
+		------------------------------
+		P-value feature 1:       nan
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.181693
+		P-value feature 4:       nan
+		P-value feature 5:  0.572824
+		P-value feature 6:  0.000000
+		P-value feature 7:       nan
+		P-value feature 8:  0.000000
+
+
+	Support Vector Regression Mean Scores:
+	-Problem 2-
+		R^2 score: -0.106411
+		------------------------------
+		T-test feature 1:       nan
+		T-test feature 2: 7148.513718
+		T-test feature 3:  3.428438
+		T-test feature 4:       nan
+		------------------------------
+		P-value feature 1:       nan
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.181693
+		P-value feature 4:       nan
+	-Problem 3-
+		R^2 score: -0.106411
+		------------------------------
+		T-test feature 1:       nan
+		T-test feature 2: 7148.513718
+		T-test feature 3:  3.428438
+		T-test feature 4:       nan
+		T-test feature 5: 22.746685
+		T-test feature 6: 621064.374186
+		T-test feature 7:       nan
+		T-test feature 8: 7142.937408
+		------------------------------
+		P-value feature 1:       nan
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.181693
+		P-value feature 4:       nan
+		P-value feature 5:  0.572824
+		P-value feature 6:  0.000000
+		P-value feature 7:       nan
+		P-value feature 8:  0.000000
+
+
+	LARS Lasso Mean Scores:
+	-Problem 2-
+		R^2 score: 0.857947
+		------------------------------
+		T-test feature 1:       nan
+		T-test feature 2: 7148.513718
+		T-test feature 3:  3.428438
+		T-test feature 4:       nan
+		------------------------------
+		P-value feature 1:       nan
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.181693
+		P-value feature 4:       nan
+	-Problem 3-
+		R^2 score: 0.916684
+		------------------------------
+		T-test feature 1:       nan
+		T-test feature 2: 7148.513718
+		T-test feature 3:  3.428438
+		T-test feature 4:       nan
+		T-test feature 5: 22.746685
+		T-test feature 6: 621064.374186
+		T-test feature 7:       nan
+		T-test feature 8: 7142.937408
+		------------------------------
+		P-value feature 1:       nan
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.181693
+		P-value feature 4:       nan
+		P-value feature 5:  0.572824
+		P-value feature 6:  0.000000
+		P-value feature 7:       nan
+		P-value feature 8:  0.000000
+
+
+data/tweets_#nfl.csv
+
+	Linear Regression Mean Scores:
+	-Problem 2-
+		R^2 score: -2.498618
+		------------------------------
+		T-test feature 1: 75.215080
+		T-test feature 2: 1604.618371
+		T-test feature 3:  3.178866
+		T-test feature 4:       nan
+		------------------------------
+		P-value feature 1:  0.432376
+		P-value feature 2:  0.000003
+		P-value feature 3:  0.202118
+		P-value feature 4:       nan
+	-Problem 3-
+		R^2 score: 0.978169
+		------------------------------
+		T-test feature 1: 75.215080
+		T-test feature 2: 1604.618371
+		T-test feature 3:  3.178866
+		T-test feature 4:       nan
+		T-test feature 5:  6.831252
+		T-test feature 6: 2187.079982
+		T-test feature 7: 267.385951
+		T-test feature 8: 1835.564400
+		------------------------------
+		P-value feature 1:  0.432376
+		P-value feature 2:  0.000003
+		P-value feature 3:  0.202118
+		P-value feature 4:       nan
+		P-value feature 5:  0.183349
+		P-value feature 6:  0.000000
+		P-value feature 7:  0.000000
+		P-value feature 8:  0.000000
+
+
+	Logistic Regression Mean Scores:
+	-Problem 2-
+		R^2 score: 0.045448
+		------------------------------
+		T-test feature 1: 75.215080
+		T-test feature 2: 1604.618371
+		T-test feature 3:  3.178866
+		T-test feature 4:       nan
+		------------------------------
+		P-value feature 1:  0.432376
+		P-value feature 2:  0.000003
+		P-value feature 3:  0.202118
+		P-value feature 4:       nan
+	-Problem 3-
+		R^2 score: 0.045448
+		------------------------------
+		T-test feature 1: 75.215080
+		T-test feature 2: 1604.618371
+		T-test feature 3:  3.178866
+		T-test feature 4:       nan
+		T-test feature 5:  6.831252
+		T-test feature 6: 2187.079982
+		T-test feature 7: 267.385951
+		T-test feature 8: 1835.564400
+		------------------------------
+		P-value feature 1:  0.432376
+		P-value feature 2:  0.000003
+		P-value feature 3:  0.202118
+		P-value feature 4:       nan
+		P-value feature 5:  0.183349
+		P-value feature 6:  0.000000
+		P-value feature 7:  0.000000
+		P-value feature 8:  0.000000
+
+
+	Support Vector Regression Mean Scores:
+	-Problem 2-
+		R^2 score: -0.151815
+		------------------------------
+		T-test feature 1: 75.215080
+		T-test feature 2: 1604.618371
+		T-test feature 3:  3.178866
+		T-test feature 4:       nan
+		------------------------------
+		P-value feature 1:  0.432376
+		P-value feature 2:  0.000003
+		P-value feature 3:  0.202118
+		P-value feature 4:       nan
+	-Problem 3-
+		R^2 score: -0.151815
+		------------------------------
+		T-test feature 1: 75.215080
+		T-test feature 2: 1604.618371
+		T-test feature 3:  3.178866
+		T-test feature 4:       nan
+		T-test feature 5:  6.831252
+		T-test feature 6: 2187.079982
+		T-test feature 7: 267.385951
+		T-test feature 8: 1835.564400
+		------------------------------
+		P-value feature 1:  0.432376
+		P-value feature 2:  0.000003
+		P-value feature 3:  0.202118
+		P-value feature 4:       nan
+		P-value feature 5:  0.183349
+		P-value feature 6:  0.000000
+		P-value feature 7:  0.000000
+		P-value feature 8:  0.000000
+
+
+	LARS Lasso Mean Scores:
+	-Problem 2-
+		R^2 score: -2.148534
+		------------------------------
+		T-test feature 1: 75.215080
+		T-test feature 2: 1604.618371
+		T-test feature 3:  3.178866
+		T-test feature 4:       nan
+		------------------------------
+		P-value feature 1:  0.432376
+		P-value feature 2:  0.000003
+		P-value feature 3:  0.202118
+		P-value feature 4:       nan
+	-Problem 3-
+		R^2 score: 0.991687
+		------------------------------
+		T-test feature 1: 75.215080
+		T-test feature 2: 1604.618371
+		T-test feature 3:  3.178866
+		T-test feature 4:       nan
+		T-test feature 5:  6.831252
+		T-test feature 6: 2187.079982
+		T-test feature 7: 267.385951
+		T-test feature 8: 1835.564400
+		------------------------------
+		P-value feature 1:  0.432376
+		P-value feature 2:  0.000003
+		P-value feature 3:  0.202118
+		P-value feature 4:       nan
+		P-value feature 5:  0.183349
+		P-value feature 6:  0.000000
+		P-value feature 7:  0.000000
+		P-value feature 8:  0.000000
+
+
+data/tweets_#patriots.csv
+
+	Linear Regression Mean Scores:
+	-Problem 2-
+		R^2 score: -2.291648
+		------------------------------
+		T-test feature 1: 61.083197
+		T-test feature 2: 19299.952523
+		T-test feature 3:  1.501174
+		T-test feature 4:       nan
+		------------------------------
+		P-value feature 1:  0.226676
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.388718
+		P-value feature 4:       nan
+	-Problem 3-
+		R^2 score: 0.541453
+		------------------------------
+		T-test feature 1: 61.083197
+		T-test feature 2: 19299.952523
+		T-test feature 3:  1.501174
+		T-test feature 4:       nan
+		T-test feature 5:  0.425384
+		T-test feature 6: 196192.985044
+		T-test feature 7: 4203.146057
+		T-test feature 8: 3147.501792
+		------------------------------
+		P-value feature 1:  0.226676
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.388718
+		P-value feature 4:       nan
+		P-value feature 5:  0.633074
+		P-value feature 6:  0.000000
+		P-value feature 7:  0.003434
+		P-value feature 8:  0.000000
+
+
+	Logistic Regression Mean Scores:
+	-Problem 2-
+		R^2 score: 0.057163
+		------------------------------
+		T-test feature 1: 61.083197
+		T-test feature 2: 19299.952523
+		T-test feature 3:  1.501174
+		T-test feature 4:       nan
+		------------------------------
+		P-value feature 1:  0.226676
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.388718
+		P-value feature 4:       nan
+	-Problem 3-
+		R^2 score: 0.057163
+		------------------------------
+		T-test feature 1: 61.083197
+		T-test feature 2: 19299.952523
+		T-test feature 3:  1.501174
+		T-test feature 4:       nan
+		T-test feature 5:  0.425384
+		T-test feature 6: 196192.985044
+		T-test feature 7: 4203.146057
+		T-test feature 8: 3147.501792
+		------------------------------
+		P-value feature 1:  0.226676
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.388718
+		P-value feature 4:       nan
+		P-value feature 5:  0.633074
+		P-value feature 6:  0.000000
+		P-value feature 7:  0.003434
+		P-value feature 8:  0.000000
+
+
+	Support Vector Regression Mean Scores:
+	-Problem 2-
+		R^2 score: -0.089487
+		------------------------------
+		T-test feature 1: 61.083197
+		T-test feature 2: 19299.952523
+		T-test feature 3:  1.501174
+		T-test feature 4:       nan
+		------------------------------
+		P-value feature 1:  0.226676
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.388718
+		P-value feature 4:       nan
+	-Problem 3-
+		R^2 score: -0.089484
+		------------------------------
+		T-test feature 1: 61.083197
+		T-test feature 2: 19299.952523
+		T-test feature 3:  1.501174
+		T-test feature 4:       nan
+		T-test feature 5:  0.425384
+		T-test feature 6: 196192.985044
+		T-test feature 7: 4203.146057
+		T-test feature 8: 3147.501792
+		------------------------------
+		P-value feature 1:  0.226676
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.388718
+		P-value feature 4:       nan
+		P-value feature 5:  0.633074
+		P-value feature 6:  0.000000
+		P-value feature 7:  0.003434
+		P-value feature 8:  0.000000
+
+
+	LARS Lasso Mean Scores:
+	-Problem 2-
+		R^2 score: 0.912602
+		------------------------------
+		T-test feature 1: 61.083197
+		T-test feature 2: 19299.952523
+		T-test feature 3:  1.501174
+		T-test feature 4:       nan
+		------------------------------
+		P-value feature 1:  0.226676
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.388718
+		P-value feature 4:       nan
+	-Problem 3-
+		R^2 score: 0.990319
+		------------------------------
+		T-test feature 1: 61.083197
+		T-test feature 2: 19299.952523
+		T-test feature 3:  1.501174
+		T-test feature 4:       nan
+		T-test feature 5:  0.425384
+		T-test feature 6: 196192.985044
+		T-test feature 7: 4203.146057
+		T-test feature 8: 3147.501792
+		------------------------------
+		P-value feature 1:  0.226676
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.388718
+		P-value feature 4:       nan
+		P-value feature 5:  0.633074
+		P-value feature 6:  0.000000
+		P-value feature 7:  0.003434
+		P-value feature 8:  0.000000
+
+
+data/tweets_#sb49.csv
+
+	Linear Regression Mean Scores:
+	-Problem 2-
+		R^2 score: 0.941199
+		------------------------------
+		T-test feature 1: 243.116177
+		T-test feature 2: 292994.277252
+		T-test feature 3:  0.744969
+		T-test feature 4:       nan
+		------------------------------
+		P-value feature 1:  0.289677
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.472409
+		P-value feature 4:       nan
+	-Problem 3-
+		R^2 score: 0.996203
+		------------------------------
+		T-test feature 1: 243.116177
+		T-test feature 2: 292994.277252
+		T-test feature 3:  0.744969
+		T-test feature 4:       nan
+		T-test feature 5:  3.109246
+		T-test feature 6: 1401642.010906
+		T-test feature 7: 32016.027715
+		T-test feature 8: 8617.255121
+		------------------------------
+		P-value feature 1:  0.289677
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.472409
+		P-value feature 4:       nan
+		P-value feature 5:  0.447412
+		P-value feature 6:  0.000000
+		P-value feature 7:  0.000000
+		P-value feature 8:  0.000000
+
+
+	Logistic Regression Mean Scores:
+	-Problem 2-
+		R^2 score: 0.055304
+		------------------------------
+		T-test feature 1: 243.116177
+		T-test feature 2: 292994.277252
+		T-test feature 3:  0.744969
+		T-test feature 4:       nan
+		------------------------------
+		P-value feature 1:  0.289677
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.472409
+		P-value feature 4:       nan
+	-Problem 3-
+		R^2 score: 0.055304
+		------------------------------
+		T-test feature 1: 243.116177
+		T-test feature 2: 292994.277252
+		T-test feature 3:  0.744969
+		T-test feature 4:       nan
+		T-test feature 5:  3.109246
+		T-test feature 6: 1401642.010906
+		T-test feature 7: 32016.027715
+		T-test feature 8: 8617.255121
+		------------------------------
+		P-value feature 1:  0.289677
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.472409
+		P-value feature 4:       nan
+		P-value feature 5:  0.447412
+		P-value feature 6:  0.000000
+		P-value feature 7:  0.000000
+		P-value feature 8:  0.000000
+
+
+	Support Vector Regression Mean Scores:
+	-Problem 2-
+		R^2 score: -0.084825
+		------------------------------
+		T-test feature 1: 243.116177
+		T-test feature 2: 292994.277252
+		T-test feature 3:  0.744969
+		T-test feature 4:       nan
+		------------------------------
+		P-value feature 1:  0.289677
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.472409
+		P-value feature 4:       nan
+	-Problem 3-
+		R^2 score: -0.084825
+		------------------------------
+		T-test feature 1: 243.116177
+		T-test feature 2: 292994.277252
+		T-test feature 3:  0.744969
+		T-test feature 4:       nan
+		T-test feature 5:  3.109246
+		T-test feature 6: 1401642.010906
+		T-test feature 7: 32016.027715
+		T-test feature 8: 8617.255121
+		------------------------------
+		P-value feature 1:  0.289677
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.472409
+		P-value feature 4:       nan
+		P-value feature 5:  0.447412
+		P-value feature 6:  0.000000
+		P-value feature 7:  0.000000
+		P-value feature 8:  0.000000
+
+
+	LARS Lasso Mean Scores:
+	-Problem 2-
+		R^2 score: 0.949693
+		------------------------------
+		T-test feature 1: 243.116177
+		T-test feature 2: 292994.277252
+		T-test feature 3:  0.744969
+		T-test feature 4:       nan
+		------------------------------
+		P-value feature 1:  0.289677
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.472409
+		P-value feature 4:       nan
+	-Problem 3-
+		R^2 score: 0.997678
+		------------------------------
+		T-test feature 1: 243.116177
+		T-test feature 2: 292994.277252
+		T-test feature 3:  0.744969
+		T-test feature 4:       nan
+		T-test feature 5:  3.109246
+		T-test feature 6: 1401642.010906
+		T-test feature 7: 32016.027715
+		T-test feature 8: 8617.255121
+		------------------------------
+		P-value feature 1:  0.289677
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.472409
+		P-value feature 4:       nan
+		P-value feature 5:  0.447412
+		P-value feature 6:  0.000000
+		P-value feature 7:  0.000000
+		P-value feature 8:  0.000000
+
+
+data/tweets_#superbowl.csv
+
+	Linear Regression Mean Scores:
+	-Problem 2-
+		R^2 score: -0.102577
+		------------------------------
+		T-test feature 1: 659.440411
+		T-test feature 2: 30766.778560
+		T-test feature 3:  0.908156
+		T-test feature 4:       nan
+		------------------------------
+		P-value feature 1:  0.302070
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.422320
+		P-value feature 4:       nan
+	-Problem 3-
+		R^2 score: 0.996959
+		------------------------------
+		T-test feature 1: 659.440411
+		T-test feature 2: 30766.778560
+		T-test feature 3:  0.908156
+		T-test feature 4:       nan
+		T-test feature 5:  4.231599
+		T-test feature 6: 169100.241200
+		T-test feature 7: 22053.868096
+		T-test feature 8: 9162.252714
+		------------------------------
+		P-value feature 1:  0.302070
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.422320
+		P-value feature 4:       nan
+		P-value feature 5:  0.379419
+		P-value feature 6:  0.000000
+		P-value feature 7:  0.000000
+		P-value feature 8:  0.000000
+
+
+	Logistic Regression Mean Scores:
+	-Problem 2-
+		R^2 score: 0.042759
+		------------------------------
+		T-test feature 1: 659.440411
+		T-test feature 2: 30766.778560
+		T-test feature 3:  0.908156
+		T-test feature 4:       nan
+		------------------------------
+		P-value feature 1:  0.302070
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.422320
+		P-value feature 4:       nan
+	-Problem 3-
+		R^2 score: 0.042759
+		------------------------------
+		T-test feature 1: 659.440411
+		T-test feature 2: 30766.778560
+		T-test feature 3:  0.908156
+		T-test feature 4:       nan
+		T-test feature 5:  4.231599
+		T-test feature 6: 169100.241200
+		T-test feature 7: 22053.868096
+		T-test feature 8: 9162.252714
+		------------------------------
+		P-value feature 1:  0.302070
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.422320
+		P-value feature 4:       nan
+		P-value feature 5:  0.379419
+		P-value feature 6:  0.000000
+		P-value feature 7:  0.000000
+		P-value feature 8:  0.000000
+
+
+	Support Vector Regression Mean Scores:
+	-Problem 2-
+		R^2 score: -0.112585
+		------------------------------
+		T-test feature 1: 659.440411
+		T-test feature 2: 30766.778560
+		T-test feature 3:  0.908156
+		T-test feature 4:       nan
+		------------------------------
+		P-value feature 1:  0.302070
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.422320
+		P-value feature 4:       nan
+	-Problem 3-
+		R^2 score: -0.112585
+		------------------------------
+		T-test feature 1: 659.440411
+		T-test feature 2: 30766.778560
+		T-test feature 3:  0.908156
+		T-test feature 4:       nan
+		T-test feature 5:  4.231599
+		T-test feature 6: 169100.241200
+		T-test feature 7: 22053.868096
+		T-test feature 8: 9162.252714
+		------------------------------
+		P-value feature 1:  0.302070
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.422320
+		P-value feature 4:       nan
+		P-value feature 5:  0.379419
+		P-value feature 6:  0.000000
+		P-value feature 7:  0.000000
+		P-value feature 8:  0.000000
+
+
+	LARS Lasso Mean Scores:
+	-Problem 2-
+		R^2 score: -0.098248
+		------------------------------
+		T-test feature 1: 659.440411
+		T-test feature 2: 30766.778560
+		T-test feature 3:  0.908156
+		T-test feature 4:       nan
+		------------------------------
+		P-value feature 1:  0.302070
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.422320
+		P-value feature 4:       nan
+	-Problem 3-
+		R^2 score: 0.997060
+		------------------------------
+		T-test feature 1: 659.440411
+		T-test feature 2: 30766.778560
+		T-test feature 3:  0.908156
+		T-test feature 4:       nan
+		T-test feature 5:  4.231599
+		T-test feature 6: 169100.241200
+		T-test feature 7: 22053.868096
+		T-test feature 8: 9162.252714
+		------------------------------
+		P-value feature 1:  0.302070
+		P-value feature 2:  0.000000
+		P-value feature 3:  0.422320
+		P-value feature 4:       nan
+		P-value feature 5:  0.379419
+		P-value feature 6:  0.000000
+		P-value feature 7:  0.000000
+		P-value feature 8:  0.000000

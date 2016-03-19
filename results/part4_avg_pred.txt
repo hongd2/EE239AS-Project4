@@ -1,0 +1,36 @@
+data/tweets_#gohawks.csv
+
+	Average prediction error for Period 1 27.448149:
+	Average prediction error for Period 2 36.383078:
+	Average prediction error for Period 3 16.337346:
+------------------------------------------------------------
+data/tweets_#gopatriots.csv
+
+	Average prediction error for Period 1 61.608437:
+	Average prediction error for Period 2 65.836415:
+	Average prediction error for Period 3 10.785898:
+------------------------------------------------------------
+data/tweets_#nfl.csv
+
+	Average prediction error for Period 1 51.328586:
+	Average prediction error for Period 2 170.605770:
+	Average prediction error for Period 3 27.154346:
+------------------------------------------------------------
+data/tweets_#patriots.csv
+
+	Average prediction error for Period 1 84.086567:
+	Average prediction error for Period 2 65.676033:
+	Average prediction error for Period 3 16.494728:
+------------------------------------------------------------
+data/tweets_#sb49.csv
+
+	Average prediction error for Period 1 3436.743379:
+	Average prediction error for Period 2 1964.359263:
+	Average prediction error for Period 3 40.565964:
+------------------------------------------------------------
+data/tweets_#superbowl.csv
+
+	Average prediction error for Period 1 542.311391:
+	Average prediction error for Period 2 1533.897981:
+	Average prediction error for Period 3 212.234838:
+------------------------------------------------------------
