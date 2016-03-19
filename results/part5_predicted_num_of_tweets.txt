@@ -1,0 +1,30 @@
+data/sample10_period3.csv
+
+	The predicted number of tweets 60.125156
+data/sample1_period1.csv
+
+	The predicted number of tweets 99.887770
+data/sample2_period2.csv
+
+	The predicted number of tweets 78000.896189
+data/sample3_period3.csv
+
+	The predicted number of tweets 603.955758
+data/sample4_period1.csv
+
+	The predicted number of tweets 276.738015
+data/sample5_period1.csv
+
+	The predicted number of tweets 287.107220
+data/sample6_period2.csv
+
+	The predicted number of tweets 41118.362584
+data/sample7_period3.csv
+
+	The predicted number of tweets 57.667595
+data/sample8_period1.csv
+
+	The predicted number of tweets 44.229527
+data/sample9_period2.csv
+
+	The predicted number of tweets 1551.637766
