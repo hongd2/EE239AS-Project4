@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  18 MAR 2016 17:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  18 MAR 2016 22:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -316,6 +316,219 @@ LaTeX Warning: Label `part1:tab1' multiply defined.
 
 LaTeX Warning: Label `part1:tab1' multiply defined.
 
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `sub@part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `sub@part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `sub@part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `sub@part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `sub@part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `part1:fig' multiply defined.
+
+
+LaTeX Warning: Label `part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `sub@part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `sub@part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `sub@part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `part1:fig' multiply defined.
+
+
+LaTeX Warning: Label `part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `sub@part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `sub@part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `sub@part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `part1:fig' multiply defined.
+
+
+LaTeX Warning: Label `part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `sub@part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `sub@part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `sub@part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `part1:fig' multiply defined.
+
+
+LaTeX Warning: Label `part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `sub@part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `sub@part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `sub@part1:fig:LC' multiply defined.
+
+
+LaTeX Warning: Label `part1:fig' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
+
+LaTeX Warning: Label `part1:tab1' multiply defined.
+
 )
 \openout1 = `document.aux'.
 
@@ -393,22 +606,22 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 21.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <figures/1_NFL_histogram.jpeg, id=1, 803.0pt x 602.25pt>
 File: figures/1_NFL_histogram.jpeg Graphic file (type jpg)
@@ -426,29 +639,185 @@ Package pdftex.def Info: figures/1_SuperBowl_histogram.jpeg used on input line
 (pdftex.def)             Requested size: 211.38832pt x 158.53868pt.
  [1
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3 
-<./figures/1_NFL_histogram.jpeg> <./figures/1_SuperBowl_histogram.jpeg>] (./doc
-ument.aux)
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \vbox (129.70801pt too high) has occurred while \output is active []
+
+
+[2 <./figures/1_NFL_histogram.jpeg> <./figures/1_SuperBowl_histogram.jpeg>]
+[3] [4] [5] [6] [7] [8] [9] [10] [11]
+<figures/count_vs_sum_tweets_gohawks.png, id=44, 578.16pt x 433.62pt>
+File: figures/count_vs_sum_tweets_gohawks.png Graphic file (type png)
+
+<use figures/count_vs_sum_tweets_gohawks.png>
+Package pdftex.def Info: figures/count_vs_sum_tweets_gohawks.png used on input 
+line 608.
+(pdftex.def)             Requested size: 211.38832pt x 158.53795pt.
+
+<figures/count_vs_n_users_tweets_gohawks.png, id=46, 578.16pt x 433.62pt>
+File: figures/count_vs_n_users_tweets_gohawks.png Graphic file (type png)
+
+<use figures/count_vs_n_users_tweets_gohawks.png>
+Package pdftex.def Info: figures/count_vs_n_users_tweets_gohawks.png used on in
+put line 615.
+(pdftex.def)             Requested size: 211.38832pt x 158.53795pt.
+
+<figures/count_vs_n_len_100_tweets_gohawks.png, id=47, 578.16pt x 433.62pt>
+File: figures/count_vs_n_len_100_tweets_gohawks.png Graphic file (type png)
+
+<use figures/count_vs_n_len_100_tweets_gohawks.png>
+Package pdftex.def Info: figures/count_vs_n_len_100_tweets_gohawks.png used on 
+input line 621.
+(pdftex.def)             Requested size: 211.38832pt x 158.53795pt.
+ [12]
+<figures/count_vs_sum_tweets_gopatriots.png, id=51, 578.16pt x 433.62pt>
+File: figures/count_vs_sum_tweets_gopatriots.png Graphic file (type png)
+
+<use figures/count_vs_sum_tweets_gopatriots.png>
+Package pdftex.def Info: figures/count_vs_sum_tweets_gopatriots.png used on inp
+ut line 635.
+(pdftex.def)             Requested size: 211.38832pt x 158.53795pt.
+
+<figures/count_vs_n_users_tweets_gopatriots.png, id=52, 578.16pt x 433.62pt>
+File: figures/count_vs_n_users_tweets_gopatriots.png Graphic file (type png)
+
+<use figures/count_vs_n_users_tweets_gopatriots.png>
+Package pdftex.def Info: figures/count_vs_n_users_tweets_gopatriots.png used on
+ input line 642.
+(pdftex.def)             Requested size: 211.38832pt x 158.53795pt.
+
+<figures/count_vs_n_len_100_tweets_gopatriots.png, id=53, 578.16pt x 433.62pt>
+File: figures/count_vs_n_len_100_tweets_gopatriots.png Graphic file (type png)
+
+<use figures/count_vs_n_len_100_tweets_gopatriots.png>
+Package pdftex.def Info: figures/count_vs_n_len_100_tweets_gopatriots.png used 
+on input line 648.
+(pdftex.def)             Requested size: 211.38832pt x 158.53795pt.
+ [13 <./figures/count_vs_sum_tweets_gohawks.png> <./figures/count_vs_n_users_tw
+eets_gohawks.png> <./figures/count_vs_n_len_100_tweets_gohawks.png>]
+<figures/count_vs_sum_tweets_nfl.png, id=61, 578.16pt x 433.62pt>
+File: figures/count_vs_sum_tweets_nfl.png Graphic file (type png)
+
+<use figures/count_vs_sum_tweets_nfl.png>
+Package pdftex.def Info: figures/count_vs_sum_tweets_nfl.png used on input line
+ 663.
+(pdftex.def)             Requested size: 211.38832pt x 158.53795pt.
+
+<figures/count_vs_n_users_tweets_nfl.png, id=62, 578.16pt x 433.62pt>
+File: figures/count_vs_n_users_tweets_nfl.png Graphic file (type png)
+
+<use figures/count_vs_n_users_tweets_nfl.png>
+Package pdftex.def Info: figures/count_vs_n_users_tweets_nfl.png used on input 
+line 670.
+(pdftex.def)             Requested size: 211.38832pt x 158.53795pt.
+
+<figures/count_vs_n_len_100_tweets_nfl.png, id=63, 578.16pt x 433.62pt>
+File: figures/count_vs_n_len_100_tweets_nfl.png Graphic file (type png)
+
+<use figures/count_vs_n_len_100_tweets_nfl.png>
+Package pdftex.def Info: figures/count_vs_n_len_100_tweets_nfl.png used on inpu
+t line 676.
+(pdftex.def)             Requested size: 211.38832pt x 158.53795pt.
+ [14 <./figures/count_vs_sum_tweets_gopatriots.png> <./figures/count_vs_n_users
+_tweets_gopatriots.png> <./figures/count_vs_n_len_100_tweets_gopatriots.png>]
+<figures/count_vs_sum_tweets_patriots.png, id=70, 578.16pt x 433.62pt>
+File: figures/count_vs_sum_tweets_patriots.png Graphic file (type png)
+
+<use figures/count_vs_sum_tweets_patriots.png>
+Package pdftex.def Info: figures/count_vs_sum_tweets_patriots.png used on input
+ line 691.
+(pdftex.def)             Requested size: 211.38832pt x 158.53795pt.
+
+<figures/count_vs_n_users_tweets_patriots.png, id=71, 578.16pt x 433.62pt>
+File: figures/count_vs_n_users_tweets_patriots.png Graphic file (type png)
+
+<use figures/count_vs_n_users_tweets_patriots.png>
+Package pdftex.def Info: figures/count_vs_n_users_tweets_patriots.png used on i
+nput line 698.
+(pdftex.def)             Requested size: 211.38832pt x 158.53795pt.
+
+<figures/count_vs_n_len_100_tweets_patriots.png, id=72, 578.16pt x 433.62pt>
+File: figures/count_vs_n_len_100_tweets_patriots.png Graphic file (type png)
+
+<use figures/count_vs_n_len_100_tweets_patriots.png>
+Package pdftex.def Info: figures/count_vs_n_len_100_tweets_patriots.png used on
+ input line 704.
+(pdftex.def)             Requested size: 211.38832pt x 158.53795pt.
+ [15 <./figures/count_vs_sum_tweets_nfl.png> <./figures/count_vs_n_users_tweets
+_nfl.png> <./figures/count_vs_n_len_100_tweets_nfl.png>]
+<figures/count_vs_sum_tweets_sb49.png, id=79, 578.16pt x 433.62pt>
+File: figures/count_vs_sum_tweets_sb49.png Graphic file (type png)
+
+<use figures/count_vs_sum_tweets_sb49.png>
+Package pdftex.def Info: figures/count_vs_sum_tweets_sb49.png used on input lin
+e 719.
+(pdftex.def)             Requested size: 211.38832pt x 158.53795pt.
+
+<figures/count_vs_n_users_tweets_sb49.png, id=80, 578.16pt x 433.62pt>
+File: figures/count_vs_n_users_tweets_sb49.png Graphic file (type png)
+
+<use figures/count_vs_n_users_tweets_sb49.png>
+Package pdftex.def Info: figures/count_vs_n_users_tweets_sb49.png used on input
+ line 726.
+(pdftex.def)             Requested size: 211.38832pt x 158.53795pt.
+
+<figures/count_vs_n_len_100_tweets_sb49.png, id=81, 578.16pt x 433.62pt>
+File: figures/count_vs_n_len_100_tweets_sb49.png Graphic file (type png)
+
+<use figures/count_vs_n_len_100_tweets_sb49.png>
+Package pdftex.def Info: figures/count_vs_n_len_100_tweets_sb49.png used on inp
+ut line 732.
+(pdftex.def)             Requested size: 211.38832pt x 158.53795pt.
+ [16 <./figures/count_vs_sum_tweets_patriots.png> <./figures/count_vs_n_users_t
+weets_patriots.png> <./figures/count_vs_n_len_100_tweets_patriots.png>]
+<figures/count_vs_sum_tweets_superbowl.png, id=88, 578.16pt x 433.62pt>
+File: figures/count_vs_sum_tweets_superbowl.png Graphic file (type png)
+
+<use figures/count_vs_sum_tweets_superbowl.png>
+Package pdftex.def Info: figures/count_vs_sum_tweets_superbowl.png used on inpu
+t line 746.
+(pdftex.def)             Requested size: 211.38832pt x 158.53795pt.
+
+<figures/count_vs_n_users_tweets_superbowl.png, id=89, 578.16pt x 433.62pt>
+File: figures/count_vs_n_users_tweets_superbowl.png Graphic file (type png)
+
+<use figures/count_vs_n_users_tweets_superbowl.png>
+Package pdftex.def Info: figures/count_vs_n_users_tweets_superbowl.png used on 
+input line 753.
+(pdftex.def)             Requested size: 211.38832pt x 158.53795pt.
+
+<figures/count_vs_n_len_100_tweets_superbowl.png, id=90, 578.16pt x 433.62pt>
+File: figures/count_vs_n_len_100_tweets_superbowl.png Graphic file (type png)
+
+<use figures/count_vs_n_len_100_tweets_superbowl.png>
+Package pdftex.def Info: figures/count_vs_n_len_100_tweets_superbowl.png used o
+n input line 759.
+(pdftex.def)             Requested size: 211.38832pt x 158.53795pt.
+ [17 <./figures/count_vs_sum_tweets_sb49.png> <./figures/count_vs_n_users_tweet
+s_sb49.png> <./figures/count_vs_n_len_100_tweets_sb49.png>] [18 <./figures/coun
+t_vs_sum_tweets_superbowl.png> <./figures/count_vs_n_users_tweets_superbowl.png
+> <./figures/count_vs_n_len_100_tweets_superbowl.png>] [19] [20] [21] (./docume
+nt.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5782 strings out of 493089
- 87390 string characters out of 6134842
- 167656 words of memory out of 5000000
- 9186 multiletter control sequences out of 15000+600000
+ 5878 strings out of 493089
+ 91449 string characters out of 6134842
+ 167686 words of memory out of 5000000
+ 9263 multiletter control sequences out of 15000+600000
  12396 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,7n,40p,921b,461s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,11n,40p,965b,457s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
-sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on document.pdf (3 pages, 109315 bytes).
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
+/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on document.pdf (21 pages, 510180 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
- 20 compressed objects within 1 object stream
+ 131 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
